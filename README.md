@@ -1,2 +1,2 @@
-#LEETCODE
-This is  my leet code profile the questions I solved with the solutions are available here.
+# LEETCODE
+<h3>This is  my leet code repository the questions I solved are available here with the solution.</h3>
